@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Abhishek%20Singh&fontSize=60&fontAlignY=35&desc=Full-Stack%20Web%20Dev%20%7C%20E-commerce%20Customization&descAlignY=55&descSize=20&animation=twinkling" />
+  <a href="https://github.com/abhishek251100">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=120&lines=%3E_Initializing+workspace...;Hi,+I'm+Abhishek+Singh;%3E_Full-Stack+Web+Developer;%3E_E-commerce+%26+Performance+Specialist" alt="Typing Header" />
+  </a>
 </div>
 
 <div align="center">
@@ -34,7 +36,7 @@
       </pre>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,255,255,0.2);" />
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,242,254,0.3);" />
     </td>
   </tr>
 </table>
@@ -51,16 +53,26 @@
 <br><br>
 
 <div align="center">
-  <h3>📊 Language Distribution</h3>
-  <p><i>A snapshot of my current technical focus.</i></p>
+  <h3 style="color: #00F2FE;">📊 System Proficiency Log</h3>
+  <p><i>Manual override initialized. Bypassing public API limitations to display true technical distribution.</i></p>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek251100&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00f2fe" alt="Languages" width="50%" />
+<pre style="display: inline-block; text-align: left; background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #30363D; color: #C9D1D9; font-family: 'Fira Code', monospace; font-size: 14px;">
+<span style="color: #79C0FF;">const</span> <span style="color: #D2A8FF;">skill_distribution</span> = {
+  <span style="color: #7EE787;">"React & MERN Stack"</span>:      <span style="color: #00F2FE;">"██████████████████░░ 90%"</span>,
+  <span style="color: #7EE787;">"Shopify / Custom E-com"</span>:  <span style="color: #00F2FE;">"███████████████████░ 95%"</span>,
+  <span style="color: #7EE787;">"JavaScript / TypeScript"</span>: <span style="color: #00F2FE;">"█████████████████░░░ 85%"</span>,
+  <span style="color: #7EE787;">"Node.js / Express"</span>:       <span style="color: #00F2FE;">"████████████████░░░░ 80%"</span>,
+  <span style="color: #7EE787;">"UI / Tailwind CSS"</span>:       <span style="color: #00F2FE;">"█████████████████░░░ 85%"</span>,
+  <span style="color: #7EE787;">"Python / Data Science"</span>:   <span style="color: #00F2FE;">"██████████████░░░░░░ 70%"</span>,
+  <span style="color: #7EE787;">"Database (SQL/NoSQL)"</span>:    <span style="color: #00F2FE;">"███████████████░░░░░ 75%"</span>
+};
+</pre>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek251100&label=Profile%20Views&color=00f2fe&style=for-the-badge" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhishek251100&label=System%20Pings&color=00f2fe&style=for-the-badge" alt="Views" />
 </div>
