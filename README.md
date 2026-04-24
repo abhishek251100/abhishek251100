@@ -53,26 +53,11 @@
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=40&lines=System+Proficiency+Log" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=40&lines=System+Proficiency+Radar" />
   <p style="color: #8B949E; font-size: 13px;"><i>Manual override initialized. True technical distribution based on recent builds.</i></p>
   <br>
   
-  <img src="https://quickchart.io/chart?w=500&h=15&bkg=transparent&c=%7Btype%3A%27horizontalBar%27%2Cdata%3A%7Bdatasets%3A%5B%7Bdata%3A%5B35%5D%2CbackgroundColor%3A%27%2300F2FE%27%7D%2C%7Bdata%3A%5B25%5D%2CbackgroundColor%3A%27%2395BF47%27%7D%2C%7Bdata%3A%5B20%5D%2CbackgroundColor%3A%27%23F7DF1E%27%7D%2C%7Bdata%3A%5B10%5D%2CbackgroundColor%3A%27%2338B2AC%27%7D%2C%7Bdata%3A%5B10%5D%2CbackgroundColor%3A%27%233776AB%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscales%3A%7BxAxes%3A%5B%7Bdisplay%3Afalse%2Cstacked%3Atrue%7D%5D%2CyAxes%3A%5B%7Bdisplay%3Afalse%2Cstacked%3Atrue%7D%5D%7D%2Cplugins%3A%7Bdatalabels%3A%7Bdisplay%3Afalse%7D%7D%2Clayout%3A%7Bpadding%3A0%7D%2CmaintainAspectRatio%3Afalse%2Celements%3A%7Brectangle%3A%7BborderWidth%3A0%2CborderRadius%3A10%7D%7D%7D%7D" style="border-radius: 10px; margin-bottom: 15px;" />
-  
-  <table width="500" border="0" cellpadding="0" cellspacing="0" style="background: transparent;">
-    <tr>
-      <td width="50%" align="left" style="line-height: 2.2; font-family: 'Segoe UI', sans-serif;">
-        <span style="color: #00F2FE; font-size: 18px;">●</span> React & MERN <b style="color: #8B949E;">35.0%</b><br>
-        <span style="color: #F7DF1E; font-size: 18px;">●</span> JavaScript <b style="color: #8B949E;">20.0%</b><br>
-        <span style="color: #3776AB; font-size: 18px;">●</span> Python / ML <b style="color: #8B949E;">10.0%</b>
-      </td>
-      <td width="50%" align="left" style="line-height: 2.2; font-family: 'Segoe UI', sans-serif;">
-        <span style="color: #95BF47; font-size: 18px;">●</span> Shopify / E-com <b style="color: #8B949E;">25.0%</b><br>
-        <span style="color: #38B2AC; font-size: 18px;">●</span> UI / Tailwind <b style="color: #8B949E;">10.0%</b><br>
-        <span style="color: transparent;">●</span> <br>
-      </td>
-    </tr>
-  </table>
+  <img src="https://quickchart.io/chart?w=500&h=300&bkg=transparent&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27React%20%26%20MERN%27%2C%27Shopify%20%2F%20E-com%27%2C%27JavaScript%20%2F%20TS%27%2C%27Node.js%27%2C%27UI%20%2F%20Tailwind%27%2C%27Python%20%2F%20ML%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B90%2C95%2C85%2C80%2C85%2C70%5D%2CbackgroundColor%3A%27rgba(0%2C%20242%2C%20254%2C%200.2)%27%2CborderColor%3A%27%2300F2FE%27%2CpointBackgroundColor%3A%27%2300F2FE%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscale%3A%7BgridLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.1)%27%7D%2CangleLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.1)%27%7D%2CpointLabels%3A%7BfontColor%3A%27%23C9D1D9%27%2CfontSize%3A14%7D%2Cticks%3A%7Bdisplay%3Afalse%2Cmin%3A0%2Cmax%3A100%7D%7D%7D%7D" alt="Skill Radar Chart" />
 </div>
 
 <br><br>
