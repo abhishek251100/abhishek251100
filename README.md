@@ -53,25 +53,29 @@
 <br><br>
 
 <div align="center">
-  <h3 style="color: #00F2FE;">📊 System Proficiency Log</h3>
-  <p><i>Manual override initialized. Bypassing public API limitations to display true technical distribution.</i></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=40&lines=System+Proficiency+Log" />
+  <p style="color: #8B949E; font-size: 13px;"><i>Manual override initialized. True technical distribution based on recent builds.</i></p>
+  <br>
+  
+  <img src="https://quickchart.io/chart?w=500&h=15&bkg=transparent&c=%7Btype%3A%27horizontalBar%27%2Cdata%3A%7Bdatasets%3A%5B%7Bdata%3A%5B35%5D%2CbackgroundColor%3A%27%2300F2FE%27%7D%2C%7Bdata%3A%5B25%5D%2CbackgroundColor%3A%27%2395BF47%27%7D%2C%7Bdata%3A%5B20%5D%2CbackgroundColor%3A%27%23F7DF1E%27%7D%2C%7Bdata%3A%5B10%5D%2CbackgroundColor%3A%27%2338B2AC%27%7D%2C%7Bdata%3A%5B10%5D%2CbackgroundColor%3A%27%233776AB%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscales%3A%7BxAxes%3A%5B%7Bdisplay%3Afalse%2Cstacked%3Atrue%7D%5D%2CyAxes%3A%5B%7Bdisplay%3Afalse%2Cstacked%3Atrue%7D%5D%7D%2Cplugins%3A%7Bdatalabels%3A%7Bdisplay%3Afalse%7D%7D%2Clayout%3A%7Bpadding%3A0%7D%2CmaintainAspectRatio%3Afalse%2Celements%3A%7Brectangle%3A%7BborderWidth%3A0%2CborderRadius%3A10%7D%7D%7D%7D" style="border-radius: 10px; margin-bottom: 15px;" />
+  
+  <table width="500" border="0" cellpadding="0" cellspacing="0" style="background: transparent;">
+    <tr>
+      <td width="50%" align="left" style="line-height: 2.2; font-family: 'Segoe UI', sans-serif;">
+        <span style="color: #00F2FE; font-size: 18px;">●</span> React & MERN <b style="color: #8B949E;">35.0%</b><br>
+        <span style="color: #F7DF1E; font-size: 18px;">●</span> JavaScript <b style="color: #8B949E;">20.0%</b><br>
+        <span style="color: #3776AB; font-size: 18px;">●</span> Python / ML <b style="color: #8B949E;">10.0%</b>
+      </td>
+      <td width="50%" align="left" style="line-height: 2.2; font-family: 'Segoe UI', sans-serif;">
+        <span style="color: #95BF47; font-size: 18px;">●</span> Shopify / E-com <b style="color: #8B949E;">25.0%</b><br>
+        <span style="color: #38B2AC; font-size: 18px;">●</span> UI / Tailwind <b style="color: #8B949E;">10.0%</b><br>
+        <span style="color: transparent;">●</span> <br>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-<pre style="display: inline-block; text-align: left; background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #30363D; color: #C9D1D9; font-family: 'Fira Code', monospace; font-size: 14px;">
-<span style="color: #79C0FF;">const</span> <span style="color: #D2A8FF;">skill_distribution</span> = {
-  <span style="color: #7EE787;">"React & MERN Stack"</span>:      <span style="color: #00F2FE;">"██████████████████░░ 90%"</span>,
-  <span style="color: #7EE787;">"Shopify / Custom E-com"</span>:  <span style="color: #00F2FE;">"███████████████████░ 95%"</span>,
-  <span style="color: #7EE787;">"JavaScript / TypeScript"</span>: <span style="color: #00F2FE;">"█████████████████░░░ 85%"</span>,
-  <span style="color: #7EE787;">"Node.js / Express"</span>:       <span style="color: #00F2FE;">"████████████████░░░░ 80%"</span>,
-  <span style="color: #7EE787;">"UI / Tailwind CSS"</span>:       <span style="color: #00F2FE;">"█████████████████░░░ 85%"</span>,
-  <span style="color: #7EE787;">"Python / Data Science"</span>:   <span style="color: #00F2FE;">"██████████████░░░░░░ 70%"</span>,
-  <span style="color: #7EE787;">"Database (SQL/NoSQL)"</span>:    <span style="color: #00F2FE;">"███████████████░░░░░ 75%"</span>
-};
-</pre>
-</div>
-
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishek251100&label=System%20Pings&color=00f2fe&style=for-the-badge" alt="Views" />
