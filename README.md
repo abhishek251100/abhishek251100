@@ -1,30 +1,65 @@
-![logo](https://github.com/AbhishekSingh/AbhishekSingh/blob/main/IMG_20240315_084310.jpg)
-<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<h3 align="center">A Quick Learner who was not so quick to start coding sooner</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekSingh&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekSingh" /> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20there,%20I'm%20Abhishek!%20👋&fontSize=40&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20E-commerce%20Specialist&descAlignY=60&descAlign=50" alt="Header Banner" />
+</div>
 
-- 🔭 I’m currently working on *Front-End*
+<h3 align="center">Crafting Scalable Web Experiences & Performance-Driven Tools 🚀</h3>
 
-- 🌱 I’m currently learning *MERN Stack*
+<div align="center">
+  <a href="https://linkedin.com/in/abhishek-singh-505355209/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abhisheksingh2511@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/bollay2511" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
-- 💬 Ask me about *Movies,Games and Sports*
+<br />
 
-- 📫 How to reach me *abhisheksingh2511@gmail.com*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhishekSingh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
-- ⚡ Fun fact: *I can ride my bike in your dreams*
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-singh-505355209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek Singh" height="30" width="40" /></a>
-<a href="https://instagram.com/bollay2511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AbhisheSingh" height="30" width="40" /></a>
-</p>
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I am a Software Developer with a year of experience specializing in full-stack web development and high-performance e-commerce customization. From architecting scalable backends to designing seamless user interfaces, I love solving complex problems with clean code. 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekSingh&show_icons=true&locale=en&layout=compact" alt="abhisheksingh" /></p>
+- 🏢 Currently working as a **Software Developer**, focusing heavily on **React, Node.js, and modern web architecture**.
+- 🛠️ **What I'm building right now:** Developing proprietary in-house performance optimization and image adaptation tools to streamline agency workflows.
+- 🛒 **E-commerce Expertise:** Deeply involved in Shopify and WordPress customization, API integrations, and checkout flow optimizations.
+- 🎓 **Background:** M.Sc. in Information Technology with hands-on experience integrating Machine Learning and Deep Learning models into web and mobile (Flutter) applications.
+- ⚡ **Fun Fact:** When I'm not commuting on the Thane local or optimizing server response times, you can usually find me on the football pitch, ranking up in Mobile Legends, or exploring the complex notes of high-end niche fragrances.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekSingh&show_icons=true&locale=en" alt="AbhishekSingh" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekSingh&" alt="AbhishekSingh" /></p>
+### 💻 Tech Stack & Tools
+
+**Front-End & UI** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Back-End & Databases** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+**E-commerce & CMS** ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Tools & Version Control** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekSingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Abhishek's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekSingh&theme=tokyonight&hide_border=true&background=0D1117" alt="Abhishek's Streak" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+</div>
+
+<br />
+<div align="center">
+  <i>"Always building, always learning."</i>
+</div>
